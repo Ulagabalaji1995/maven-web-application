@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		balaji Software Solutions, 
+		balaji Solutions, 
 		Martha Halli,
 		Bangalore,
 		+91-9032772788,
