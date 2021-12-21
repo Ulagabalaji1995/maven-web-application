@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		balaji Solutions, 
-		Martha Halli,
+		chittoor,
 		Bangalore,
 		+91-9032772788,
 		devopstrainingbr@gmail.com
