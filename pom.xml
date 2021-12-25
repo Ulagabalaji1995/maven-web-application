@@ -98,7 +98,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>test_Release</name>
+	      <name>test</name>
 	      <url>http://13.233.159.217:8081/repository/test_Release/</url>
 	    </repository>
 	    
